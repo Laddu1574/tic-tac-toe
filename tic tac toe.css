@@ -47,6 +47,7 @@ h1{
     color: white;
     border-radius: 0.8rem;
     border: none;
+    pointer: cursor
 }
 #msg{
     color: orangered; 
@@ -59,6 +60,7 @@ h1{
     align-items: center;
     flex-direction: column;
     gap: 4rem;
+    pointer: cursor;
 }
 .hide{
     display: none;
